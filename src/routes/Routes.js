@@ -13,7 +13,7 @@ const Routes = () => {
         <div>
             <Nav />
             <ReactRouterRoutes>
-                <Route path="/" element={<HomePage />} />
+                <Route path="/home" element={<HomePage />} />
                 <Route path="/posts" element={<PostsPage />} />
                 <Route path='/pictures' element={<PicturesPage />} />
                 <Route path='/contacts' element={<ContactsPage />} />
