@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lesson020/home/static/css/main.3746b4d2.css",
-    "main.js": "/lesson020/home/static/js/main.a23667ab.js",
-    "static/js/787.adf21202.chunk.js": "/lesson020/home/static/js/787.adf21202.chunk.js",
-    "index.html": "/lesson020/home/index.html",
-    "main.3746b4d2.css.map": "/lesson020/home/static/css/main.3746b4d2.css.map",
-    "main.a23667ab.js.map": "/lesson020/home/static/js/main.a23667ab.js.map",
-    "787.adf21202.chunk.js.map": "/lesson020/home/static/js/787.adf21202.chunk.js.map"
+    "main.css": "/lesson020/static/css/main.3746b4d2.css",
+    "main.js": "/lesson020/static/js/main.75c9e947.js",
+    "static/js/787.adf21202.chunk.js": "/lesson020/static/js/787.adf21202.chunk.js",
+    "index.html": "/lesson020/index.html",
+    "main.3746b4d2.css.map": "/lesson020/static/css/main.3746b4d2.css.map",
+    "main.75c9e947.js.map": "/lesson020/static/js/main.75c9e947.js.map",
+    "787.adf21202.chunk.js.map": "/lesson020/static/js/787.adf21202.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3746b4d2.css",
-    "static/js/main.a23667ab.js"
+    "static/js/main.75c9e947.js"
   ]
 }
